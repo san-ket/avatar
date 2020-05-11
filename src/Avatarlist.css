@@ -1,0 +1,11 @@
+.Avatar img {
+  width: 200px;
+  height: 200px;
+}
+.Avatar {
+  display: inline-block;
+  margin: 20px;
+  padding: 4px;
+  background-color: lightpink;
+  text-align: center;
+}
